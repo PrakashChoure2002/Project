@@ -1,0 +1,49 @@
+/* src/pages/Dashboard.css */
+
+.dashboard-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.profile-section, .orders-section {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.profile-section h2, .orders-section h2 {
+    margin-bottom: 15px;
+    color: #444;
+}
+
+.profile-details p, .order-card p {
+    margin: 5px 0;
+    line-height: 1.5;
+}
+
+.orders-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.order-card {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background-color: #f8f8f8;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.order-card p {
+    margin: 0;
+    font-size: 14px;
+}
+
+.order-card p strong {
+    color: #555;
+}

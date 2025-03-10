@@ -1,0 +1,7 @@
+.card-img-top {
+    transition: transform 0.3s ease; /* Smooth transition for the transform property */
+  }
+  
+  .card-img-top:hover {
+    transform: scale(1.1); /* Scale the image to 110% on hover */
+  }

@@ -1,0 +1,11 @@
+
+.partner-form .btn-primary {
+  background-color: #1e90ff;
+  border-color: #1e90ff;
+  color: #fff;
+}
+
+.partner-form .btn-primary:hover {
+  background-color: #1681e0;
+  border-color: #1681e0;
+}

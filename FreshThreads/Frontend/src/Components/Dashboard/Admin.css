@@ -1,0 +1,17 @@
+.bg-orange {
+    background-color: orange !important;
+  }
+  
+  .btn-orange {
+    background-color: orange !important;
+    border: none;
+  }
+  
+  .btn-orange:hover {
+    background-color: #e67e22 !important;
+  }
+  
+  .nav-link {
+    transition: background-color 0.3s ease;
+  }
+  
